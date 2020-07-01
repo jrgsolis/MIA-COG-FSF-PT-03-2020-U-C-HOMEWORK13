@@ -1,0 +1,35 @@
+{
+  "name": "mia-cog-fsf-pt-03-2020-u-c-homework13",
+  "version": "0.0.1",
+  "description": "UM Boot Camp Express Handle Bars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK13.git"
+  },
+  "keywords": [
+    "UM",
+    "Boot",
+    "Camp",
+    "Eat",
+    "A",
+    "Burger",
+    "Homework13"
+  ],
+  "author": "Jorge Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK13/issues"
+  },
+  "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK13#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
